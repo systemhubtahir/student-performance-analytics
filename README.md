@@ -54,10 +54,6 @@ Running `python main.py` on the 20-record dataset gives:
 - Class average: 72.05
 
 The program prints every result in the terminal and saves the full table to `student_results.csv`.
-
-## Repository Link
-GitHub repository: **Add your public repository URL here after pushing the project.**
-
 ---
 
 ## How to Run
