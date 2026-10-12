@@ -54,6 +54,7 @@ Running `python main.py` on the 20-record dataset gives:
 - Class average: 72.05
 
 The program prints every result in the terminal and saves the full table to `student_results.csv`.
+
 ---
 
 ## How to Run
@@ -73,4 +74,3 @@ The program prints every result in the terminal and saves the full table to `stu
    ```
 
 The program creates `student_results.csv` in the same folder.
-

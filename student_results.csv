@@ -1,0 +1,21 @@
+StudentID,Name,Department,Maths,Science,English,Computer,Attendance,Total,Average,Grade,Result
+101,Aarav,Computer Science,92,88,85,96,95,361,90.25,A,Pass
+102,Diya,Computer Science,85,91,89,94,92,359,89.75,B,Pass
+103,Rohan,Mathematics,78,82,75,80,88,315,78.75,B,Pass
+104,Ananya,Computer Science,95,93,90,98,97,376,94.0,A,Pass
+105,Vikram,Mathematics,45,52,48,55,72,200,50.0,D,Pass
+106,Meera,Physics,88,86,92,84,94,350,87.5,B,Pass
+107,Arjun,Computer Science,35,42,50,65,68,192,48.0,D,Fail
+108,Isha,Physics,76,79,83,81,90,319,79.75,B,Pass
+109,Kabir,Mathematics,61,58,64,70,80,253,63.25,C,Pass
+110,Sneha,Computer Science,98,96,94,99,98,387,96.75,A,Pass
+111,Rahul,Physics,39,35,45,50,60,169,42.25,D,Fail
+112,Priya,Mathematics,82,77,85,88,91,332,83.0,B,Pass
+113,Aditya,Computer Science,55,60,58,62,76,235,58.75,D,Pass
+114,Kavya,Physics,91,89,87,93,96,360,90.0,A,Pass
+115,Manoj,Mathematics,28,33,38,42,55,141,35.25,F,Fail
+116,Neha,Computer Science,73,81,78,85,87,317,79.25,B,Pass
+117,Imran,Physics,64,69,72,67,82,272,68.0,C,Pass
+118,Pooja,Mathematics,87,84,90,86,93,347,86.75,B,Pass
+119,Karan,Computer Science,42,38,35,48,65,163,40.75,D,Fail
+120,Farah,Physics,80,75,82,79,89,316,79.0,B,Pass
